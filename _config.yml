@@ -21,14 +21,9 @@
 title: "COMP3040 A2: Matthew Spelchak's Resume"
 email: m.spelchak@gmail.com
 description: "This is my resume! It's also part of a school project focusing on GitHub pages on markdown, so this is not representative of my actual resume. Sorry ¯\_(ツ)_/¯"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  tizzir
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+theme: jekyll-theme-cayman
 
 markdown: GFM
 # Exclude from processing.
